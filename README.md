@@ -1,8 +1,6 @@
 # GameRoomRepo
 
-Brenda Sanchez
-CS 230
-Module 8 Portfolio
+Brenda Sanchez - CS 230 - Module 8 Portfolio
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
